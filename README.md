@@ -1,1 +1,2 @@
-# ToDo-App-In-Python-with-Source-Code
+# ToDo-gui-python
+Build a simple To-Do GUI application using python
